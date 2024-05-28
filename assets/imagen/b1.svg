@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70" height="70" version="1.1" viewBox="0 0 18.521 18.521" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <filter id="filter2344" x="-.0040889" y="-.0061697" width="1.0082" height="1.0123" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.052558069"/>
+  </filter>
+  <filter id="filter2116" x="-.057576" y="-.057576" width="1.1152" height="1.1152" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.29717723"/>
+  </filter>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(1.2945 0 0 1.3169 -139.27 -166.37)">
+  <g transform="translate(4.4404 -3.7792)">
+   <g transform="matrix(.3244 0 0 .3244 67.375 88.77)">
+    <circle cx="132.32" cy="149.11" r="19.792" fill="#c048d4" stroke="#fff" stroke-linejoin="round" stroke-width="4.3954" style="paint-order:markers stroke fill"/>
+    <path d="m113.01 148.46c17.174 0.38456 25.392 10.468 30.849 15.736-6.1494 6.1092-15.043 5.7071-21.049 2.0213-8.5476-4.9788-9.7131-10.794-9.8003-17.757z" fill="#86199b" filter="url(#filter2344)" opacity=".74008"/>
+    <circle transform="matrix(3.0161 0 0 3.0289 -222.73 -258.47)" cx="117.72" cy="134.56" r="6.1938" fill="none" filter="url(#filter2116)" stroke="#fff" stroke-linejoin="round" stroke-width=".56181" style="paint-order:markers stroke fill"/>
+    <circle cx="132.32" cy="149.11" r="19.792" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.095" style="paint-order:markers stroke fill"/>
+   </g>
+   <ellipse transform="rotate(35.312)" cx="164.43" cy="47.707" rx=".2755" ry=".61938" fill="#fff" style="paint-order:markers stroke fill"/>
+   <path d="m107.21 133.09c0.9967-1.406 3.5588-1.5788 4.8387-0.91175 0.5965 0.42504 0.36705 0.90283-0.14831 0.708-2.7957-0.95341-5.0457 1.1269-4.6904 0.20375z" fill="#fff"/>
+  </g>
+  <text transform="matrix(.91098 0 0 .91098 11.205 9.6285)" fill="#ffffff" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke="#000000" word-spacing="0px" style="line-height:1.25;shape-inside:url(#rect2412-3);white-space:pre" xml:space="preserve"><tspan x="111.64844" y="139.44845"><tspan fill="#ffffff" font-family="'Milky Nice'" stroke="#000000">1</tspan></tspan></text>
+  <g transform="matrix(.91098 0 0 .91098 11.205 9.6286)" fill="#fff" style="shape-inside:url(#rect2412);white-space:pre" aria-label="1">
+   <path d="m115.47 138.88-0.0106 0.127v0.0317q-0.0106 0.21166-0.127 0.3175-0.0741 0.0635-0.16934 0.0952-0.0847 0.0212-0.22225 0.0317-0.254 0.0212-0.39158 0.0212-0.32808 0-0.55033-0.0847-0.4445-0.17992-0.4445-0.80434v-3.5242q0-0.0847 0.0106-0.27517 0.0212-0.42333-0.0318-0.635-0.0317-0.10583-0.0741-0.10583-0.0212 0-0.0741 0.0423l-0.0318 0.0212q-0.0741 0.0635-0.22225 0.127-0.13758 0.0529-0.29633 0.0847-0.14817 0.0318-0.254 0.0318-0.0635 0-0.11642-0.0106-0.40216-0.0847-0.56091-0.48683-0.15875-0.40217 0.0741-0.74083 0.20108-0.28575 0.77258-0.52917 0.68792-0.30691 1.2171-0.41275 0.1905-0.0423 0.37042-0.0423h0.0106l0.21166-0.0106-0.0212 0.0106q0.24341 0.0212 0.43391 0.127 0.29634 0.16933 0.41275 0.508l0.0106-0.0318 0.0318 0.23283v0.0212q0.0318 0.1905 0.0212 0.56091 0 0.13759 0 0.1905 0.0106 0.78317 0.0106 2.3495 0 1.4499 0.0106 2.2331v0.52917z" fill="#fff"/>
+  </g>
+ </g>
+</svg>

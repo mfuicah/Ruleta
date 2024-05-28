@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="86" version="1.1" viewBox="0 0 67.733 22.754" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <filter id="filter3248" x="-.011692" y="-.031086" width="1.0234" height="1.0622" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.24949708"/>
+  </filter>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(6.5215,4.0976)">
+  <g transform="matrix(1.0034,0,0,1.0003,50.002,-24.539)">
+   <g transform="matrix(1.2213 0 0 .99706 12.429 .093609)">
+    <path d="m-55.992 31.727 6.5996-10.913 41.695-0.08671 6.4032 10.99-6.3948 11.176-41.437-0.01121z" fill="#fff" stroke="#502d16" stroke-width=".58208"/>
+    <path d="m-54.312 31.843 51.212-0.15263-5.7432 9.8603-39.6-0.04678z" fill="#0085ff" fill-opacity=".39969"/>
+    <path d="m-55.388 31.721 6.3263-10.326 41.011-0.13814 6.1182 10.416-6.1174 10.681-40.73 0.02222z" fill="#0085ff" fill-opacity=".39969" stroke="#c87137" stroke-width=".88943"/>
+    <path d="m-8.7664 22.288 5.6661 9.402-5.7432 9.8603-39.6-0.04678-5.8688-9.6609 5.8253-9.5207z" fill="none" filter="url(#filter3248)" stroke="#005297" stroke-width="1.1377"/>
+    <path d="m-47.634 40.154 37.728-0.08565 5.2336-8.4665-6.062 7.0832z" fill="#fff"/>
+    <path d="m-10.174 23.438-37.728 0.08565-5.2336 8.4665 6.062-7.0832z" fill="#fff"/>
+   </g>
+  </g>
+  <g transform="matrix(.9263 0 0 .9263 -13.43 23.168)" font-family="'Milky Nice'" font-size="10.583px" letter-spacing="0px" word-spacing="0px">
+   <text transform="translate(5.7985 -2.8766)" fill="#000000" stroke="#005297" stroke-linejoin="round" stroke-width="1.2382" style="line-height:1.25;shape-inside:url(#rect882);white-space:pre" xml:space="preserve"><tspan x="11.878906" y="-10.717561"><tspan font-family="'Milky Nice'" stroke="#005297" stroke-linejoin="round" stroke-width="1.2382">SIGUIENTE</tspan></tspan></text>
+   <text transform="translate(5.9089 -2.8946)" fill="#a0ff00" style="line-height:1.25;shape-inside:url(#rect882-3);white-space:pre" xml:space="preserve"><tspan x="11.878906" y="-10.717561"><tspan fill="#a0ff00" font-family="'Milky Nice'">SIGUIENTE</tspan></tspan></text>
+  </g>
+ </g>
+</svg>
